@@ -11,4 +11,4 @@ You can see the different stages of development by checking out the other branch
 Special thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for helping out with the initial static code and doing pretty much all of the styling.
 
 https://www.youtube.com/watch?v=FXpIoQ_rT_c
-1:30:00 stopped
+2:07:56 stopped
